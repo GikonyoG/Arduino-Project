@@ -71,4 +71,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-This README file provides a comprehensive guide to setting up and running your project, including an overview, setup instructions, customization tips, and troubleshooting advice. Adjust as necessary to fit the specific details and requirements of your project.
